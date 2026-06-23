@@ -11,4 +11,4 @@
 
 ## Enlaces de Entrega
 - 🎥 **Video Demostrativo:** https://youtu.be/5gIssMYKpPg
-- 📄 **Documentación Técnica (PDF):** https://github.com/CenturionJuan/UTN-TUPaD-TPI-Programacion2
+- 📄 **Documentación Técnica (PDF):** https://github.com/CenturionJuan/UTN-TUPaD-TPI-Programacion2/tree/main
